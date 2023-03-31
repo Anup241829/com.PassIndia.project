@@ -1,5 +1,5 @@
 package testCases;
 
-public class TC_004 {
+public class TC_006 {
 
 }
